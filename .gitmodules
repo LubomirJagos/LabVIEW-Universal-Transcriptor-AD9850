@@ -1,0 +1,3 @@
+[submodule "libraries/AD9850"]
+	path = libraries/AD9850
+	url = https://github.com/LubomirJagos/LabVIEW-Universal-Transcriptor-AD9850
